@@ -13,6 +13,10 @@ header {
   text-align: center;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   border-bottom: 4px solid #cc6600;
+  img.logo {
+  height: 100px;
+  filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2));
+}
 }
 
 nav a {
